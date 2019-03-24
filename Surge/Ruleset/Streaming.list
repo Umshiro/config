@@ -1,4 +1,3 @@
-
 # > Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
@@ -17,6 +16,7 @@ USER-AGENT,Prime%20Video*
 USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
+
 # > Fox Now
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
