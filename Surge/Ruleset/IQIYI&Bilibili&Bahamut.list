@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-KEYWORD,bilibili
-# > Surfboard Android
+// Surfboard Android
 PROCESS-NAME,tv.danmaku.bili
 PROCESS-NAME,com.bilibili.app.in
 // Bahamut
