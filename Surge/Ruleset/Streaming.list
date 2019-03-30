@@ -1,4 +1,4 @@
-# > Netflix
+// Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 
-# > Amazon Prime Video (US|JP)
+// Amazon Prime Video (US|JP)
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
@@ -17,7 +17,7 @@ USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
 
-# > Fox Now
+// Fox Now
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
