@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,nflxvideo.net
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
-# > Fox+ (HK|TW|SG)
+// Fox+ (HK|TW|SG)
 USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
