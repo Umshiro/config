@@ -2,10 +2,12 @@
 USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
+
 // Hulu
 USER-AGENT,Hulu*
 DOMAIN-KEYWORD,hulu
 DOMAIN-SUFFIX,happyon.jp
+
 // Youtube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
@@ -13,16 +15,20 @@ USER-AGENT,YouTubeMusic*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
+
 // Hulu(フールー)
 DOMAIN-SUFFIX,happyon.jp
-# > AbemaTV
+
+// AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN,linear-abematv.akamaized.net
+
 // PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
+
 // VSCO
 DOMAIN-SUFFIX,vsco.co
