@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN,linear-abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
 
 // PBS
 USER-AGENT,PBS*
