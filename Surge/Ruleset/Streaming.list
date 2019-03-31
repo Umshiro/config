@@ -12,13 +12,21 @@ DOMAIN-SUFFIX,nflxvideo.net
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
-// Fox+ (HK|TW|SG)
+// Fox+&Fox Now
 USER-AGENT,FOXPlus*
-DOMAIN-SUFFIX,foxplus.com
-DOMAIN-SUFFIX,theplatform.com
-
-// Fox Now
 USER-AGENT,FOX%20NOW*
+DOMAIN-KEYWORD,foxplus
 DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,foxnow.com
+DOMAIN-SUFFIX,foxplay.com
+DOMAIN-SUFFIX,config.fox.com
+DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,config.fox.com
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,mstage.io
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,urlload.net
