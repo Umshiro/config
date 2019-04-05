@@ -14,6 +14,8 @@ USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
 DOMAIN,youtubei.googleapis.com
 
 // Hulu(フールー)
