@@ -30,3 +30,10 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,mstage.io
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,urlload.net
+
+// PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+
+// VSCO
+DOMAIN-SUFFIX,vsco.co
