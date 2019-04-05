@@ -8,9 +8,13 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 
-// Amazon Prime Video (US|JP)
+// Amazon Prime Video
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,llnwd.net
 
 // Fox+&Fox Now
 USER-AGENT,FOXPlus*
