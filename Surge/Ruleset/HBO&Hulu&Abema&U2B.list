@@ -28,10 +28,3 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
-
-// PBS
-USER-AGENT,PBS*
-DOMAIN-SUFFIX,pbs.org
-
-// VSCO
-DOMAIN-SUFFIX,vsco.co
