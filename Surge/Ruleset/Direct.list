@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,lastpass
 //sina
 DOMAIN-KEYWORD,sina.com.cn
+DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,sinaedge.com
