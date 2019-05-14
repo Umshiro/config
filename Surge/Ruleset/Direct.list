@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,sinaedge.com
 DOMAIN-SUFFIX,miaopai.com
 // v2ex
 DOMAIN-SUFFIX,v2ex.com
+// Epicgames
+DOMAIN-KEYWORD,epicgame
+DOMAIN-SUFFIX,epicgames.com
