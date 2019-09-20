@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,cloudflare.com,Proxy
+DOMAIN-SUFFIX,iwara.tv,Proxy
+DOMAIN-KEYWORD,dlercloud,Proxy
+DOMAIN-SUFFIX,dler.cloud,Proxy
+DOMAIN-KEYWORD,samsung,Proxy
+// Epic
+DOMAIN-KEYWORD,epicgame,Proxy
