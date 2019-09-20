@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,segment.io,Reject
-DOMAIN-SUFFIX,tagtic.cn,Reject
-DOMAIN-SUFFIX,baixing.net,Reject
-DOMAIN-SUFFIX,g1.163.com,Reject
-DOMAIN-SUFFIX,crash.163.com,Reject
-DOMAIN-SUFFIX,mr.da.netease.com,Reject
-DOMAIN-SUFFIX,mam.netease.com,Reject
-DOMAIN-SUFFIX,baidu.com,Reject
+DOMAIN-SUFFIX,segment.io,REJECT
+DOMAIN-SUFFIX,tagtic.cn,REJECT
+DOMAIN-SUFFIX,baixing.net,REJECT
+DOMAIN-SUFFIX,g1.163.com,REJECT
+DOMAIN-SUFFIX,crash.163.com,REJECT
+DOMAIN-SUFFIX,mr.da.netease.com,REJECT
+DOMAIN-SUFFIX,mam.netease.com,REJECT
+DOMAIN-SUFFIX,baidu.com,REJECT
