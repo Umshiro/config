@@ -5,6 +5,6 @@ DOMAIN-SUFFIX,g1.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,mr.da.netease.com
 DOMAIN-SUFFIX,mam.netease.com
-DOMAIN-SUFFIX,baidu.com
+# DOMAIN-SUFFIX,baidu.com
 # > bilibili
 URL-REGEX,^https?:\/\/app\.biliapi\.com\/x\/v2\/splash\/
