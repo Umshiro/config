@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,sinaedge.com
 DOMAIN-SUFFIX,miaopai.com
 // Epicgames
 // DOMAIN-KEYWORD,epicgame
-DOMAIN-SUFFIX,epicgames.com
+#DOMAIN-SUFFIX,epicgames.com
 // Biligames
 DOMAIN-KEYWORD,biligame
 
