@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,sinaedge.com
 DOMAIN-SUFFIX,miaopai.com
 // Biligames
 DOMAIN-KEYWORD,biligame
-
+// Bitwarden
+DOMAIN-SUFFIX,bitwarden.com
