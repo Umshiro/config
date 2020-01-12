@@ -9,5 +9,5 @@ DOMAIN-SUFFIX,miaopai.com
 DOMAIN-KEYWORD,biligame
 // Bitwarden
 DOMAIN-SUFFIX,bitwarden.com
-// DNSPod Public DNS+
+// DNS
 IP-CIDR,119.29.29.29/32,no-resolve
