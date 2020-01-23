@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,mam.netease.com
 # DOMAIN-SUFFIX,baidu.com
 # > bilibili
 URL-REGEX,^https?:\/\/app\.biliapi\.com\/x\/v2\/splash\/
+URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
+URL-REGEX,^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
