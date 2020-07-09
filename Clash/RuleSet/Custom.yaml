@@ -1,3 +1,5 @@
 payload:
   # > General
   - DOMAIN,store-images.s-microsoft.com
+  - DOMAIN,ip.sb.com
+  - DOMAIN,skk.moe.com
