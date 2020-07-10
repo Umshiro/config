@@ -1,5 +1,6 @@
 payload:
   # > General
   - DOMAIN,store-images.s-microsoft.com
-  - DOMAIN,ip.sb.com
-  - DOMAIN,skk.moe.com
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,skk.moe.com
+  - DOMAIN-KEYWORD,dler
