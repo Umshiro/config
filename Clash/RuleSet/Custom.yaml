@@ -4,3 +4,6 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,skk.moe.com
   - DOMAIN-KEYWORD,dler
+  - DOMAIN-KEYWORD,uplay
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,ubisoft.com
