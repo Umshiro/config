@@ -7,4 +7,5 @@ payload:
   - DOMAIN-KEYWORD,uplay
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
-  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,google.com
+
