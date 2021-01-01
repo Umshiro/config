@@ -1,7 +1,6 @@
 payload:
   # > General
   - DOMAIN,store-images.s-microsoft.com
-  - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,skk.moe.com
   - DOMAIN-KEYWORD,dler
   - DOMAIN-KEYWORD,uplay
@@ -11,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,epicgames.com
