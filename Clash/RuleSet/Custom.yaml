@@ -2,7 +2,7 @@ payload:
   # > General
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN-SUFFIX,skk.moe.com
-  - DOMAIN-KEYWORD,dler
+  - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,uplay
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
