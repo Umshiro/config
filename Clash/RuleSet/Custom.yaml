@@ -3,6 +3,7 @@ payload:
   - DOMAIN,store-images.s-microsoft.com
   - DOMAIN-SUFFIX,skk.moe.com
   - DOMAIN-KEYWORD,nvidia
+  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,uplay
 #  - DOMAIN-KEYWORD,huobi
   - DOMAIN-SUFFIX,ubi.com
@@ -13,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,vcb-s.com
   - DOMAIN-SUFFIX,nyaa.si
+  
